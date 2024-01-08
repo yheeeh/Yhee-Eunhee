@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git)
+### 1. [오늘의 메뉴(Today`s Menu)](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
