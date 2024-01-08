@@ -10,7 +10,6 @@
 
 ## :pushpin: Contact
 - 이메일: ehyhee@gmail.com
-- 블로그: 
 - 깃헙: https://github.com/yheeeh
 
 </br>
