@@ -18,7 +18,7 @@
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.12.01 ~ 2024.01.04  
+>개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
