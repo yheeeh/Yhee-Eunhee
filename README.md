@@ -16,12 +16,12 @@
 
 ## :pushpin: Projects
 ### 1. [오늘의 메뉴(Today`s Menu)](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git)
->나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+>백엔드&프론트엔드(팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 17 / JSP / Servlet 
+>Oracle / Java Script
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git) 참고
 
