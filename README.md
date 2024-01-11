@@ -20,7 +20,7 @@
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
->Java 17 / JSP / Servlet 
+>Java 17 / JSP / Servlet /
 >Oracle / Java Script
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git) 참고
