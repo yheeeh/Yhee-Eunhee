@@ -27,7 +27,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo.git)
+### 2. [AILA](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo.git)
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2024.02.29 ~ 2024.03.29  
 >  
