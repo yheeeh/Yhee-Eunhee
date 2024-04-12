@@ -16,7 +16,7 @@
 
 ## :pushpin: Projects
 ### 1. [오늘의 메뉴(Today`s Menu)](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git)
->백엔드&프론트엔드(팀 프로젝트)  
+>챗GPT API를 활용한 식단 추천 및 관리 서비스 (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
@@ -24,11 +24,15 @@
 >Oracle / Java Script
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git) 참고
+>
+>담당 파트: UI/UX 및 웹 기능 구현
+>
+>성과: 웹페이지 구현, 페이징 기능 구현, 아이디 중복체크 기능 구현
 
 ---
 
 ### 2. [AILA](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo.git)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
+>데이터 시각화로 지원하는 스마트 의사결정 서비스 (팀 프로젝트)  
 >개발 기간: 2024.02.29 ~ 2024.03.29  
 >  
 >기술 스택:  
@@ -36,6 +40,10 @@
 >MySql / Java Script / Jquery / Chart.js / ZingChart
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo.git) 참고
+>
+>담당 파트: UI/UX 및 웹 기능 구현
+>
+>성과: 웹페이지 구현, 로그인 기능 구현, 일기예보 구현(다음날 0시 기준), 리뷰 분석 결과 차트로 구현
 
 ---
 
