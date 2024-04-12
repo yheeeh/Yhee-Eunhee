@@ -29,10 +29,14 @@
 >담당 파트: UI/UX 및 웹 기능 구현
 >
 >성과: 웹페이지 구현, 페이징 기능 구현, 아이디 중복체크 기능 구현
->![스크린샷 2023-12-29 112754](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/9918f087-2f33-4863-9409-33ac2b51f91b)   
-![스크린샷 2023-12-29 112318](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/acca2854-0c3a-48d1-8880-8979c7284b7f)   
-![화면 캡처 2024-04-12 154629](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/032dc697-abea-4821-a2c7-f8d2327c8120)
-
+>![intro page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/0b891f66-dffd-4573-9ab7-5bd8830f9ac1)   
+![join page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/c8f01a37-829c-485b-b404-735cd3bc683f)   
+![login page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/e0b9d642-8303-49c3-adcc-85b66ca79bc5)   
+![join success page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/70e0b0c2-0e30-4f82-8539-635368c03c6b)   
+![recipe list page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/b6a00f13-fb43-423f-92fd-d92bff837320)   
+![recipe page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/7283af1c-4919-47a7-be4f-b8b30c794f2e)   
+![my page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/bda6eb4d-a4d4-40e0-9ecf-af95af8a0987)   
+![update page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/8e36f0cb-ff70-4755-a17d-d95497f86f8d)   
 
 ---
 
