@@ -54,6 +54,13 @@
 >담당 파트: UI/UX 및 웹 기능 구현
 >
 >성과: 웹페이지 구현, 로그인 기능 구현, 일기예보 구현(다음날 0시 기준), 리뷰 분석 결과 차트로 구현
+>![home1](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/37ba8f52-6924-47dc-a34e-705ad0d34688)   
+![home2](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/9a9657c9-2084-4d98-9574-c759c6a8585e)   
+![home3](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/2890613f-35d8-4223-aa46-952f6569294a)   
+![forecast](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/6cad789b-e08b-4599-ab9b-84ba402e5884)   
+![products list](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/6632a7b4-c4f3-4d0f-b893-5d6c3ab39a4d)   
+![result1](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/cda784c8-52c8-436c-bdd8-eade47eca5cd)   
+![result2](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/0df6b4fd-86b2-4a20-b04e-c5ec3fcac648)   
 
 ---
 
