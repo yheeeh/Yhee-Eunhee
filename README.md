@@ -5,7 +5,7 @@
 
 ## :pushpin: Intro
 - 이름: 이은희
-- 경력: 사)스마트인재개발원 인공지능 융합서비스 개발자 직업훈련과정 16기 수료
+- 사)스마트인재개발원 인공지능 융합서비스 개발자 직업훈련과정 16기 수료
 
 </br>
 
@@ -56,6 +56,7 @@
 
 ---
 
+<!--
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >세 번째 프로젝트 간략 소개  (개인 프로젝트)  
 >개발 기간: 2018.1.18 ~ 2018.4.5  
@@ -65,3 +66,4 @@
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+-->
