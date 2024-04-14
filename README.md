@@ -1,17 +1,16 @@
 # Yhee-Eunhee Portfolio
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
 </br>
 
 ## :pushpin: Intro
 - 이름: 이은희
 - 사)스마트인재개발원 인공지능 융합서비스 개발자 직업훈련과정 16기 수료
-- 현재 스프링부트 공부 중
+- 현재 정보처리기사 실기, 스프링부트 공부 중
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: ehyhee@gmail.com
+- 이메일: ehyhee@gmail.com / smu04054@naver.com
 - 깃헙: https://github.com/yheeeh
 
 </br>
