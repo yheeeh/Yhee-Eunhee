@@ -21,14 +21,14 @@
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
->Java 17 / JSP / Servlet /
+>Java 17 / JSP / Servlet / Maven /
 >Oracle / Java Script
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git) 참고
 >
->담당 파트: UI/UX 및 웹 기능 구현
+>담당 역할: UI/UX 및 웹 기능 구현
 >
->성과: 웹페이지 구현, 페이징 기능 구현, 아이디 중복체크 기능 구현
+>성과: 웹페이지 구현 / 페이징 기능 구현 / 아이디 중복체크 기능 구현
 >![intro page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/0b891f66-dffd-4573-9ab7-5bd8830f9ac1)   
 ![join page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/c8f01a37-829c-485b-b404-735cd3bc683f)   
 ![login page](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/e0b9d642-8303-49c3-adcc-85b66ca79bc5)   
@@ -46,14 +46,14 @@
 >개발 기간: 2024.02.29 ~ 2024.03.29  
 >  
 >기술 스택:  
->Java 17 / JSP / Servlet /
+>Java 17 / JSP / Servlet / Maven /
 >MySql / Java Script / Jquery / Chart.js / ZingChart
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo.git) 참고
 >
->담당 파트: UI/UX 및 웹 기능 구현
+>담당 역할: UI/UX 및 웹 기능 구현
 >
->성과: 웹페이지 구현, 로그인 기능 구현, 일기예보 구현(다음날 0시 기준), 리뷰 분석 결과 차트로 구현
+>성과: 웹페이지 구현 / 로그인 기능 구현 / 일기예보 구현(다음날 0시 기준) / 리뷰 분석 결과 차트로 구현
 >![home1](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/37ba8f52-6924-47dc-a34e-705ad0d34688)   
 ![home2](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/9a9657c9-2084-4d98-9574-c759c6a8585e)   
 ![home3](https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/2890613f-35d8-4223-aa46-952f6569294a)   
