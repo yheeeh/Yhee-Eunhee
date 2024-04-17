@@ -2,19 +2,19 @@
 >끈기와 인내를 가진 개발자 이은희입니다.
 </br>
 
-## :pushpin: Intro
+## 👋 Intro
 - (사)스마트인재개발원 인공지능 융합서비스 개발자 직업훈련과정 16기 수료
 - 현재 정보처리기사 실기, 스프링부트 공부 중
 
 </br>
 
-## :pushpin: Contact
+## ✉ Contact
 - 이메일: ehyhee@gmail.com / smu04054@naver.com
 - 깃헙: https://github.com/yheeeh
 
 </br>
 
-## :pushpin: Projects
+## 📁 Projects
 ### 1. [오늘의 메뉴(Today`s Menu)](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo.git)
 >챗GPT API를 활용한 식단 추천 및 관리 서비스 (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
