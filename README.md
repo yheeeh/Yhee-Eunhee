@@ -10,7 +10,7 @@
 </br>
 
 ## ✉ Contact
-- 이메일: ehyhee@gmail.com / smu04054@naver.com
+- 이메일: ehyhee@gmail.com
 - 깃헙: https://github.com/yheeeh
 
 </br>
