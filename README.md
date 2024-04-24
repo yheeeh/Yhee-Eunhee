@@ -60,7 +60,7 @@
 >   - 📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L307-L724) 
 > - 막대 차트의 키워드 클릭 시 해당 키워드가 포함된 상세 리뷰(최대 3개) 표시 기능 구현
 >   - 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L551-L586)
->   - 📌[Service단 코드](Aila/src/main/java/com/aila/controller/FullReviewService.java)
+>   - 📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/java/com/aila/controller/FullReviewService.java)
 >   - 📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/java/com/aila/db/ResultMapper.xml#L14-L19)
 > - GSON 라이브러리를 활용하여 JAVA 데이터를 JSON으로 파싱
 
