@@ -31,7 +31,7 @@
 >본인 성과:
 > - 웹페이지 구현
 > - 페이징 기능 구현
->   - [Back단 코드](EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)
+>   - [Back단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)
 >   - [화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/35be680d210a97496446ff8c8174d8c91f8dea27/EP2/src/main/webapp/jsp/board.jsp#L114-L191)
 > - AJAX를 활용한 아이디 중복체크 기능 구현
 > - JSTL과 JS를 활용한 로그인 상태 판별 기능 구현
