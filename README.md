@@ -55,7 +55,7 @@
 > - AJAX를 활용한 로그인 기능 구현
 >   - [코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/resource/assets/js/main.js#L19-L51)
 > - OpenWeatherMap Api를 활용한 일기예보 구현(다음날 0시 기준)
->   - [코드 보기](Aila/src/main/webapp/resource/partials/weathermap.html)
+>   - [코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/webapp/resource/partials/weathermap.html)
 > - 리뷰 분석 결과 차트로 구현
 >   - [코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L307-L724) 
 > - 막대 차트의 키워드 클릭 시 해당 키워드가 포함된 상세 리뷰(최대 3개) 표시 기능 구현
