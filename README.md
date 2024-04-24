@@ -32,9 +32,9 @@
 >
 >본인 성과:
 > - 웹페이지 구현
-> - 페이징 기능 구현
->   - 📌[Back단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/master/EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)
->   - 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/35be680d210a97496446ff8c8174d8c91f8dea27/EP2/src/main/webapp/jsp/board.jsp#L114-L191)
+> - 페이징 기능 구현   
+> 📌[Back단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/master/EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)   
+> 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/35be680d210a97496446ff8c8174d8c91f8dea27/EP2/src/main/webapp/jsp/board.jsp#L114-L191)   
 > - AJAX를 활용한 아이디 중복체크 기능 구현
 > - JSTL과 JS를 활용한 로그인 상태 판별 기능 구현
 
@@ -45,7 +45,7 @@
 >개발 기간: 2024.02.29 ~ 2024.04.01  
 >  
 >사용 기술:  
->Java 17 / JSP / Servlet / Maven /
+>Java 17 / JSP / Servlet / Maven / GSON /
 >MySql / Java Script / Jquery / Chart.js / ZingChart
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo.git) 참고
@@ -54,17 +54,17 @@
 >
 >본인 성과:
 > - 웹페이지 구현
-> - AJAX를 활용한 로그인 기능 구현
->   - 📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/resource/assets/js/main.js#L19-L51)
-> - OpenWeatherMap Api를 활용한 일기예보 구현(다음날 0시 기준)
->   - 📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/webapp/resource/partials/weathermap.html)
-> - 리뷰 분석 결과 차트로 구현
->   - 📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L307-L724) 
-> - 막대 차트의 키워드 클릭 시 해당 키워드가 포함된 상세 리뷰(최대 3개) 표시 기능 구현
->   - 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L551-L586)
->   - 📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/java/com/aila/controller/FullReviewService.java)
->   - 📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/java/com/aila/db/ResultMapper.xml#L14-L19)
-> - GSON 라이브러리를 활용하여 JAVA 데이터를 JSON으로 파싱
+> - AJAX를 활용한 로그인 기능 구현   
+>   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/resource/assets/js/main.js#L19-L51)   
+> - OpenWeatherMap Api를 활용한 일기예보 구현(다음날 0시 기준)   
+>   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/webapp/resource/partials/weathermap.html)   
+> - 리뷰 분석 결과 차트로 구현   
+>   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L307-L724)    
+> - 막대 차트의 키워드 클릭 시 해당 키워드가 포함된 상세 리뷰(최대 3개) 표시 기능 구현   
+>   📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L551-L586)   
+>   📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/java/com/aila/controller/FullReviewService.java)   
+>   📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/java/com/aila/db/ResultMapper.xml#L14-L19)   
+> - GSON 라이브러리를 활용하여 Java 데이터를 JSON으로 파싱
 
 ---
 
