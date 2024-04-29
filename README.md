@@ -32,10 +32,11 @@
 >담당 역할: UI/UX 및 웹 기능 구현
 >
 >본인 성과:
-> - 웹페이지 구현
+> - 전체적인 UI/UX 담당
 > - 페이징 기능 구현   
 > 📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/master/EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)   
 > 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/35be680d210a97496446ff8c8174d8c91f8dea27/EP2/src/main/webapp/jsp/board.jsp#L114-L191)   
+📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/f57e511572124a5fe532e291e1de3d8b99f6b2f0/EP2/src/main/java/com/todaysmenu/db/BoardMapper.xml#L6-L17)   
 > - AJAX를 활용한 아이디 중복체크 기능 구현
 > - JSTL과 JS를 활용한 로그인 상태 판별 기능 구현
 
