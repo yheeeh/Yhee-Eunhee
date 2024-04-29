@@ -55,7 +55,7 @@
 >담당 역할: UI/UX 및 웹 기능 구현
 >
 >본인 성과:
-> - 웹페이지 구현
+> - 전체적인 UI/UX 담당
 > - AJAX를 활용한 로그인 기능 구현   
 >   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/resource/assets/js/main.js#L19-L51)   
 > - OpenWeatherMap Api를 활용한 일기예보 구현(다음날 0시 기준)   
