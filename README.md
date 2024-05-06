@@ -32,7 +32,7 @@
 >담당 역할: UI/UX 및 웹 기능 구현
 >
 >성과:
-> - 웹페이지 구현
+> - 웹페이지 구현(시작 화면, 회원가입 화면, 회원가입 완료 화면, 로그인 화면, 레시피 저장소 화면, 마이 페이지 화면)
 > - 페이징 기능 구현   
 > 📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/master/EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)   
 > 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/35be680d210a97496446ff8c8174d8c91f8dea27/EP2/src/main/webapp/jsp/board.jsp#L114-L191)   
@@ -42,6 +42,7 @@
 <img src="https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/3391111f-5a1b-4db5-9c22-be190b1209dc" width="450px" alt="사용불가 아이디"></img>
 > - 아이디&비밀번호 일치 확인 구현
 > - JSTL과 JS를 활용한 로그인 상태 판별 기능 구현
+> - 메인 화면 키워드 버튼에 label 구현
 
 ---
 
@@ -58,7 +59,7 @@
 >담당 역할: UI/UX 및 웹 기능 구현
 >
 >성과:
-> - 웹페이지 구현
+> - 웹페이지 구현(시작 화면, 트렌드 화면, 품목 선택 화면, 리뷰 분석 결과 화면)
 > - AJAX를 활용한 로그인 기능 구현   
 >   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/resource/assets/js/main.js#L19-L51)   
 > - OpenWeatherMap Api를 활용한 일기예보 구현(다음날 0시 기준)   
