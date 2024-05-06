@@ -37,9 +37,6 @@
 > 📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/master/EP2/src/main/java/com/todaysmenu/controller/BoardSelectService.java)   
 > 📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/35be680d210a97496446ff8c8174d8c91f8dea27/EP2/src/main/webapp/jsp/board.jsp#L114-L191)   
 📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo/blob/f57e511572124a5fe532e291e1de3d8b99f6b2f0/EP2/src/main/java/com/todaysmenu/db/BoardMapper.xml#L6-L17)   
-> - AJAX를 활용한 아이디 중복체크 기능 구현   
-<img src="https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/19ce85f4-81bb-43bd-be05-ae8f49e1723a" width="450px" alt="사용가능 아이디"></img>
-<img src="https://github.com/yheeeh/Yhee-Eunhee/assets/144122046/3391111f-5a1b-4db5-9c22-be190b1209dc" width="450px" alt="사용불가 아이디"></img>
 > - 아이디&비밀번호 일치 확인 구현
 > - JSTL과 JS를 활용한 로그인 상태 판별 기능 구현
 > - 메인 화면 키워드 버튼에 label 구현
