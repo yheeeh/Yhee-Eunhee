@@ -40,6 +40,8 @@
 > - 아이디&비밀번호 일치 확인 구현
 > - JSTL과 JS를 활용한 로그인 상태 판별 기능 구현
 > - 메인 화면 키워드 버튼에 label 구현
+>
+> 소감: checkbox로 만든 키워드 버튼에 label태그를 붙이는 것은 본래 다른 팀원이 시도하다 포기한 부분이었는데, 제가 대신 해냈을 때 팀에 도움이 될 수 있어 기뻤습니다.
 
 ---
 
@@ -61,12 +63,13 @@
 >   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/resource/assets/js/main.js#L19-L51)   
 > - OpenWeatherMap Api를 활용한 일기예보 구현(다음날 0시 기준)   
 >   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/webapp/resource/partials/weathermap.html)   
-> - 리뷰 분석 결과 차트로 구현   
->   📌[코드 보기](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L307-L724)    
+> - 리뷰 분석 결과 차트로 구현     
 > - 막대 차트의 키워드 클릭 시 해당 키워드가 포함된 상세 리뷰(최대 3개) 표시 기능 구현   
 >   📌[화면단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/webapp/views/review_result.jsp#L551-L586)   
 >   📌[Service단 코드](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/main/Aila/src/main/java/com/aila/controller/FullReviewService.java)   
->   📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/java/com/aila/db/ResultMapper.xml#L14-L19)   
+>   📌[Mapper](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo/blob/3bd72df71b80f4cb9a81173586553d33a64dc4bd/Aila/src/main/java/com/aila/db/ResultMapper.xml#L14-L19)
+>
+>소감: 상세 리뷰 표시 기능을 만들 때 막대 차트의 라벨값을 가져오는 것이 잘 되지 않아 한참을 헤맸지만, 열심히 찾아다닌 끝에 방법을 알아내 뿌듯했습니다. 
 
 ---
 
